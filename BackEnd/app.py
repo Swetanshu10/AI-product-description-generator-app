@@ -6,7 +6,7 @@ import PIL.Image
 
 app = Flask(__name__)
 cors = CORS(app, resources={r"/*": {"origins": "http://localhost:1234"}})
-genai.configure(api_key="AIzaSyB5fxVHDjIlorpgE01eJbith0nraa5BwLM")
+genai.configure(api_key="API_KEY")
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 
