@@ -1,6 +1,10 @@
 # AI-product-description-generator-app
 
-[VIDEO DEMO OF APP](https://youtu.be/QdmRjLoZjG4)
+# VIDEO DEMO OF APP
+(https://youtu.be/QdmRjLoZjG4)
+
+# System Design
+![project system design (1)](https://github.com/user-attachments/assets/32319b57-cce2-4512-9db5-75c0cf93192c)
 
 # Application Functionality
 This web application utilizes generative AI to generate product descriptions in 4 different languages at the same time out of 30 possible languages for a given product based on product's images,features and benefits provided by user as input
